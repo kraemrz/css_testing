@@ -1,0 +1,19 @@
+body {
+  /* background-color: none..class{ */
+  background:yellow;
+  /* background: #000065; */
+  color: green;
+  font-size: 22em;
+  font-family: "Times New Roman";
+}
+
+h1 {
+  color: Black;
+  text-align: right;
+}
+
+p {
+  color: Red;
+  font-family: serif;
+  font-style: bold;
+}
